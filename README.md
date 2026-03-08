@@ -51,9 +51,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-*"Learning never exhausts the mind."*
-
-</div>
