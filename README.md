@@ -42,6 +42,10 @@
 - Using : Python · Qwen3-ASR · Mobile App
 - Working on finding optimal segmentation points to minimize latency while maintaining translation quality
 
+### 📈 [LG Aimers 7th — Food Demand Forecasting](https://drive.google.com/file/d/14QUDoiNi0D1ukgghCjih3-_uv0tmPR97/view?usp=drive_link)
+`LG Aimers 7th | Food & Beverage Demand Prediction`
+> Advanced to the final round of the LG Aimers 7th AI competition focused on food demand forecasting in the F&B industry
+
 ---
 
 ## 📚 Study
