@@ -45,3 +45,13 @@
 
 ---
 
+## 📚 Study
+
+### 📖 [Deep Learning from Scratch 3](https://github.com/DOODEOJI/Deep_learning_from_scratch)
+`2026.01 ~ 2026.02`
+> Studied *ゼロから作る Deep Learning 3* by Saito Koki — building a deep learning framework from scratch
+- Implemented Autograd and Backpropagation from scratch
+- Built core framework structures: Variable, Function, and Layer
+- Constructed a NumPy-based neural network training pipeline
+
+---
