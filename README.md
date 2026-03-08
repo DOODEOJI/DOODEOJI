@@ -45,6 +45,7 @@
 ### 📈 [LG Aimers 7th — Food Demand Forecasting](https://drive.google.com/file/d/14QUDoiNi0D1ukgghCjih3-_uv0tmPR97/view?usp=drive_link)
 `LG Aimers 7th | Food & Beverage Demand Prediction`
 > Advanced to the final round of the LG Aimers 7th AI competition focused on food demand forecasting in the F&B industry
+- Applied various tuning strategies on LSTM baseline and experimented with SOTA models including TFT and TimesNet
 
 ---
 
