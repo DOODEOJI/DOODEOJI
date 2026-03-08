@@ -44,10 +44,11 @@
 
 <div align="center">
 
-![DOODEOJI's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOODEOJI&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DOODEOJI&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOODEOJI&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOODEOJI&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 </div>
 
 ---
+
