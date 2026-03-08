@@ -40,6 +40,7 @@
 `2025.09 ~ current`
 > 🎙️ Real-time Speech Translation powered by Speech AI — SKKU SKKAI & 25-2 Co-Deep Learning Project
 - Using : Python · Qwen3-ASR · Mobile App
+- Working on finding optimal segmentation points to minimize latency while maintaining translation quality
 
 ---
 
