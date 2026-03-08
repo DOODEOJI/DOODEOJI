@@ -36,7 +36,7 @@
 
 ## 🚀 Projects
 
-### 🔖 [STiTy](https://github.com/hihi9927/STiTy)
+### 🔊 [STiTy](https://github.com/hihi9927/STiTy)
 > *(Currently in development 🚧)*
 
 ---
