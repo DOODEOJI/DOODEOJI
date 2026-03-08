@@ -37,6 +37,8 @@
 ## 🚀 Projects
 
 ### 🔊 [STiTy](https://github.com/hihi9927/STiTy)
+> 🎙️ Real-time Speech Translation powered by Speech AI — SKKU SKKAI & 25-2 Co-Deep Learning Project
+> Python · Qwen3-ASR · Mobile App
 > *(Currently in development 🚧)*
 
 ---
