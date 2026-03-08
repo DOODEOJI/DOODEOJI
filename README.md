@@ -22,6 +22,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 <br/>
 
@@ -37,18 +38,6 @@
 
 ### 🔖 [STiTy](https://github.com/hihi9927/STiTy)
 > *(Currently in development 🚧)*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DOODEOJI&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOODEOJI&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-</div>
 
 ---
 
