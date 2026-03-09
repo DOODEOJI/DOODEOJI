@@ -40,7 +40,7 @@
 ### 🔊 [STiTy](https://github.com/hihi9927/STiTy)
 `2025.09 ~ current`
 > 🎙️ Real-time Speech Translation powered by Speech AI — SKKU SKKAI & 25-2 Co-Deep Learning Project
-- Using : Python · Qwen3-ASR · Mobile App
+- Using : Python · Whisper · Qwen3-ASR · Mobile App 
 - Working on finding optimal segmentation points to minimize latency while maintaining translation quality
 
 ### 📈 [LG Aimers 7th — Food Demand Forecasting](https://drive.google.com/file/d/14QUDoiNi0D1ukgghCjih3-_uv0tmPR97/view?usp=drive_link)
