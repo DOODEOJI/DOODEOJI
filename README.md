@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Dahyun Jung
 
 ### AI & Computer Science @ Sungkyunkwan University
-[![Homepage](https://img.shields.io/badge/My_Homepage-4A90D9?style=flat-square&logo=google-chrome&logoColor=white)](https://doodeoji.github.io/)
+[![Homepage](https://img.shields.io/badge/My_Homepage-4A90D9?style=flat-square&logo=gitbook&logoColor=white)](https://doodeoji.github.io/)
 
 </div>
 
